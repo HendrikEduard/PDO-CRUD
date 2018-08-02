@@ -1,0 +1,29 @@
+h3 {
+  text-align: center;
+}
+
+.navbar-inverse {
+  background-color: #006;
+  background-image: none;
+  background-repeat: no-repeat;
+  border-color: transparent;
+  border-radius: 0;
+}
+
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 0px solid transparent;
+}
+
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.open>a {
+  background: #006;
+  -webkit-box-shadow: inset 0 3px 9px rgba(0,0,0,.25);
+  box-shadow: inset 0 3px 9px rgba(0,0,0,.25);
+}
+
+.mt {
+  margin-top: 10px;
+}
