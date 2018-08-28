@@ -21,7 +21,7 @@ require_once 'layouts/header.php';?>
 
 <div class="row">
 <div class="col-md-12">
-<h3>PDO CRUD -=-o-=- All Record</h3><hr />
+<h3>PDO CRUD -=-o-=- All Records</h3><hr />
 <a href="insert.php"><button class="btn btn-primary"> Insert Record</button></a>
 <div class="table-responsive">                
   <table class="table table-bordred table-striped">                 
